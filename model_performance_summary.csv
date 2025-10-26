@@ -1,0 +1,5 @@
+Model,Best Val Acc (%),Final Test Acc (%),Checkpoint Epoch,Best Class Acc (%),Worst Class Acc (%),Avg Class Acc (%),Class Acc Std (%)
+TwoLayerNet,29.88,29.88,100,82.00,6.00,29.88,15.70
+ConvNet,30.61,30.61,73,76.00,1.00,30.61,15.71
+ExtendedTwoLayerNet,33.93,33.93,83,77.00,6.00,33.93,15.58
+ExtendedConvNet,52.94,52.94,100,88.00,16.00,52.94,16.15
